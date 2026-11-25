@@ -1,0 +1,14 @@
+{
+  "name": "hostology",
+  "description": "Hostology plugins for Claude.",
+  "owner": {
+    "name": "Hostology"
+  },
+  "plugins": [
+    {
+      "name": "hostology",
+      "source": "./",
+      "description": "Set up your venue in Hostology with your AI assistant. Connects your Hostology venue and adds the Hostology Onboarding skill, which works through your venue's setup checklist with you: your catalogue, pricing, payment terms and workflows, then each step done in the venue portal."
+    }
+  ]
+}

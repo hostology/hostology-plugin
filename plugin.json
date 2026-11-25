@@ -1,0 +1,25 @@
+{
+  "name": "hostology",
+  "version": "1.0.0",
+  "description": "Set up your venue in Hostology with your AI assistant. Connects your Hostology venue and adds the Hostology Onboarding skill, which works through your venue's setup checklist with you: your catalogue, pricing, payment terms and workflows, then each step done in the venue portal.",
+  "author": {
+    "name": "Hostology",
+    "url": "https://hostology.co.uk"
+  },
+  "homepage": "https://hostology.co.uk",
+  "repository": "https://github.com/hostology/hostology-plugin",
+  "license": "MIT",
+  "keywords": ["hostology", "venue", "events", "hospitality", "onboarding", "mcp"],
+  "skills": "./skills/",
+  "mcpServers": "./mcp.json",
+  "interface": {
+    "displayName": "Hostology",
+    "shortDescription": "Set up your Hostology venue with your assistant",
+    "longDescription": "Set up your venue in Hostology with your AI assistant. Connects your Hostology venue and adds the Hostology Onboarding skill, which works through your venue's setup checklist with you: your catalogue, pricing, payment terms and workflows, then each step done in the venue portal.",
+    "developerName": "Hostology",
+    "websiteURL": "https://hostology.co.uk",
+    "privacyPolicyURL": "https://hostology.co.uk/privacy/",
+    "logo": "./assets/logo.svg",
+    "defaultPrompt": ["Help me set up my venue"]
+  }
+}

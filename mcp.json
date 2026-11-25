@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "hostology-venue": {
+      "type": "streamable-http",
+      "url": "https://platform.hostology.co.uk/mcp/venue",
+      "auth": {
+        "type": "oauth"
+      }
+    }
+  }
+}
