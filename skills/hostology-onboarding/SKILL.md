@@ -19,9 +19,8 @@ keys. Say which step comes next.
 
 ## 3. Do the tool work first
 
-Take the outstanding steps among `billables`, `enquiry-workflow` and `event-workflow` with the user, one at a time:
-the catalogue, pricing and payment terms for billables, then the enquiry and event workflows. When a step's work is
-finished, ask the user whether it is done, tick it with `complete_onboarding_steps`, and move on.
+Take the outstanding steps among `billables`, `enquiry-workflow` and `event-workflow` with the user, one at a time.
+When a step's work is finished, tick it with `complete_onboarding_steps` and move on.
 
 ## 4. Then the portal steps
 
