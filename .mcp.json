@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "hostology-venue": {
+      "type": "http",
+      "url": "https://platform.hostology.co.uk/mcp/venue"
+    }
+  }
+}
